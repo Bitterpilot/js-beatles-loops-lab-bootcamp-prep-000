@@ -1,1 +1,7 @@
-// add solution here
+function johnLennonFacts() {
+  
+}
+
+function iLoveTheBeatles() {
+  
+}
